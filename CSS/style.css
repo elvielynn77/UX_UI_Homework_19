@@ -1,0 +1,40 @@
+.navbar{
+    width: 73%;
+    padding: 1%;
+    display: flex;
+    justify-content: space-around;
+}
+.nav-items{
+    display: inline-block;
+    vertical-align: top;
+}
+.flexContainer{
+    display: flex;
+    flex-direction: row;
+    width: 33%;
+    padding: 15%;
+    margin: 10%;
+}
+.AboutMe{
+    padding: 15%;
+    margin-top: 0%;
+    margin-left: -75%;
+    margin-right: -75%;
+    margin-bottom: 50%;
+}
+.img2{
+    padding: 15%;
+    margin-top: -10%;
+    margin-left: 100%;
+    margin-right: -50%;
+}
+.footer{
+width: auto;
+padding: 7%;
+display: flex;
+justify-content: space-around;
+}
+.inline-block{
+    display:inline-block;
+    vertical-align: bottom;
+}

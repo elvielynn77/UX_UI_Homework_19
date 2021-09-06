@@ -1,0 +1,32 @@
+.navbar{
+    width: 73%;
+    padding: 1%;
+    display: flex;
+    justify-content: space-around;
+}
+.nav-items{
+    display: inline-block;
+    vertical-align: top;
+}
+.workgrid{
+    display: grid;
+}
+.hoh{
+    grid-row-start: auto;
+}
+.comps{
+    grid-row-start: auto;
+}
+.mindfulme{
+    grid-column-end: auto;
+}
+.footer{
+    width: auto;
+    padding: 7%;
+    display: flex;
+    justify-content: space-around;
+    }
+    .inline-block{
+        display:inline-block;
+        vertical-align: bottom;
+    }
